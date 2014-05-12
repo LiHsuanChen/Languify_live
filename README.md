@@ -1,4 +1,7 @@
-Languify_live
-=============
+languify
+========
+- Global languages as easy as Font Awesome
+- Making your HTML pages readable for everyone on the web
 
-Easy web app internationalization
+## References
+- Inspired by [Font Awesome](http://fontawesome.io/)
